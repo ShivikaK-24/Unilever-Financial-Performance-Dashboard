@@ -1,3 +1,5 @@
+![Unilever Financial Performance Dashboard](Unilever%20Dashboard.jpeg)
+
 # Unilever Financial Performance Dashboard (FY2024)
 
 An interactive Power BI dashboard analysing **Unilever PLC's FY2024 financial performance**, built from the company's publicly reported annual results. The dashboard tracks the metrics an analyst uses to judge the financial health and quality of a business — profitability, earnings growth, capital efficiency and cash generation — and breaks performance down by business group and geography.
